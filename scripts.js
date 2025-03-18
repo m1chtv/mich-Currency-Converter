@@ -5,7 +5,7 @@ const toCurrency = document.querySelector(".to select");
 const exchangeRateTxt = document.querySelector(".exchange-rate");
 const exchangeIcon = document.querySelector(".drop-list .icon");
 
-const apikey = "42dea45b803aa2169efd132b";
+const apikey = "886a73c9ef1eaf9a939ad8a5";
 
 const populateCurrencyOptions = () => {
   dropList.forEach((select, index) => {
